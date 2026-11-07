@@ -8,8 +8,8 @@ Personal site for Harry Ware. Audience: Silicon Valley founders, investors, acce
 - Deploy: GitHub repo → GitHub Pages or Vercel, static.
 
 ## Page order (keep it)
-1. **Hero** — large 4:5 rectangular headshot → "Pepperdine · Philosophy, Data Science minor · Class of '29" (white, ~13px, uppercase) → name "Harry Ware" in JetBrains Mono. Nothing else in the hero.
-2. **01 About** — the goal statement only ("I build AI systems that take over the boring work people do, so they have more time for each other. I'm most interested in personal AGI tools that help people directly."). No portrait, no facts table, no extra paragraph.
+1. **Hero** — large 4:5 rectangular headshot → "Pepperdine · Philosophy of AI · Class of '29" (white, ~13px, uppercase) → name "Harry Ware" in JetBrains Mono. Nothing else in the hero.
+2. **01 About** — the goal statement only ("I build AI systems that take over the boring work, so people get to spend more time with people. I want to change the world with AI, starting with personal AGI tools that help people directly."). No portrait, no facts table, no extra paragraph.
 3. **02 Work** — project rows, newest/strongest first: Yeahme, Highway Ventures, HDW AI Consulting, Waves, PersonaBuilder, Ignite, Vendors FORE, Grand Savings, Trail Trimming Robot & Scotland, AI Video, NWACC, then a small "Also" line (OpenAI Academy). Each row: year · title + tag · short description + skill pills · metric on the right.
 4. **03 Outside Work** — NOLS origin story paragraph, one line on outdoors, then a 3-photo strip (MTB, surf, NOLS).
 5. **Contact footer** — email, LinkedIn, PersonaBuilder, GitHub (`#ghlink`, auto-hidden while href is `#`).
@@ -28,7 +28,7 @@ Personal site for Harry Ware. Audience: Silicon Valley founders, investors, acce
 - Use his wording where he gave it; light tightening only.
 
 ## Facts on the page (source of truth: Harry's resume, Nov 2026)
-- Education: Pepperdine, BA Philosophy (Philosophy of AI independent study), minor Data Science, Class of 2029. Full-year study abroad, Pepperdine Switzerland 2026–27.
+- Education: Pepperdine, BA Philosophy (Philosophy of AI independent study / contract major in progress), minor Data Science, Class of 2029. Hero shows "Philosophy of AI" per Harry. Full-year study abroad, Pepperdine Switzerland 2026–27.
 - Yeahme (yeahme.app), Co-Founder, 2026–present, in beta: AI introspection platform. 4-stage Claude reasoning pipeline (voice/text intake → sequenced goal plan); real-time voice interview (Deepgram STT/TTS) steered by a gap engine; weekly Pattern Engine with code-verified evidence to block fabrication; "Vent" reflection space. Stack: Next.js, React, Supabase (Postgres, RLS), Anthropic API, Deepgram, Vercel Cron.
 - Highway Ventures, Project Intern (paid, full-time), May–Aug 2026: led AI-native initiative; shared agent infra on PostgreSQL + pgvector knowledge base; 6 Slack agents (morning brief, daily market reports, on-demand research, market intelligence, content, SDR). SDR agent: shipped in 2 weeks, 200+ qualified leads, Apollo → HubSpot. GTM for portfolio co Clinary ($93.6M PACT rural health funding research, Baptist Health targeting, sales collateral); CRM/account-strategy tool with AI analysis.
 - HDW AI Consulting, Founder & CEO, Mar 2025–present: prompting/AI-tool workshops, custom software and AI video for clients. **$9,300 revenue** (do not use $10K or the margin claim).
