@@ -9,7 +9,7 @@ Personal site for Harry Ware. Audience: Silicon Valley founders, investors, acce
 
 ## Page order (keep it)
 1. **Hero** — large 4:5 rectangular headshot → "Pepperdine · Philosophy, Data Science minor · Class of '29" (white, ~13px, uppercase) → name "Harry Ware" in JetBrains Mono. Nothing else in the hero.
-2. **01 About** — one sentence only: the goal statement ("My goal is to build the agent systems that run the next generation of startups — mapping out business processes and automating them with frontier models and well-designed bots."). No portrait, no facts table, no second paragraph.
+2. **01 About** — the goal statement only ("I build AI systems that take over the boring work people do, so they have more time for each other. I'm most interested in personal AGI tools that help people directly."). No portrait, no facts table, no extra paragraph.
 3. **02 Work** — project rows, newest/strongest first: Yeahme, Highway Ventures, HDW AI Consulting, Waves, PersonaBuilder, Ignite, Vendors FORE, Grand Savings, Trail Trimming Robot & Scotland, AI Video, NWACC, then a small "Also" line (OpenAI Academy). Each row: year · title + tag · short description + skill pills · metric on the right.
 4. **03 Outside Work** — NOLS origin story paragraph, one line on outdoors, then a 3-photo strip (MTB, surf, NOLS).
 5. **Contact footer** — email, LinkedIn, PersonaBuilder, GitHub (`#ghlink`, auto-hidden while href is `#`).
@@ -24,7 +24,7 @@ Personal site for Harry Ware. Audience: Silicon Valley founders, investors, acce
 ## Copy rules (Harry's feedback, consistently)
 - Plain, direct, factual. If it sounds like AI wrote it or like bragging, cut it.
 - Short beats long. Business first.
-- Rejected lines — don't bring them back: "Same idea, more leverage every time", "The work below is the proof…", "Networking is my gift…", the three-line clever hero headline.
+- Rejected lines — don't bring them back: the old "agent systems that run the next generation of startups" goal line, "Same idea, more leverage every time", "The work below is the proof…", "Networking is my gift…", the three-line clever hero headline.
 - Use his wording where he gave it; light tightening only.
 
 ## Facts on the page (source of truth: Harry's resume, Nov 2026)
